@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             }
         }
     }
-
+	//生产QR
     public void generateQR(){
 
         Hashtable<EncodeHintType, String> hints = new Hashtable<EncodeHintType, String>();
